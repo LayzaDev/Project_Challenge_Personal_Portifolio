@@ -27,8 +27,6 @@ This design challenge is based on creating a portfolio using only CSS3 and HTML5
 
 #### **_Social Networks_**
 
-[Linkedin](https://www.linkedin.com/in/layza-nauane-dev12)
+[Linkedin](www.linkedin.com/in/layza-nauane)
 
 [GitHub](https://github.com/LayzaDev)
-
-[Instagram](https://www.instagram.com/layza.nauane/)
